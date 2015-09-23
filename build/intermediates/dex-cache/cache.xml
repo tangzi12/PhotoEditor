@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/retryu/photoplugs/libs/filterengine.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="be764136e16236385ada88a2a44395098434a7f5">
+        <dex dex="/Users/retryu/photoplugs/build/intermediates/pre-dexed/debug/filterengine-33f031807b24fa435221c387c214cc20a5ca463b.jar" />
+    </item>
+
+</items>
